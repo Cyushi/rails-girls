@@ -57,3 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Windows get trouble version 1.9.0
 gem 'coffee-script-source', '1.8.0'
+
+gem 'devise'
